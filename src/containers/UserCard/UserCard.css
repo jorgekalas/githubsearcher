@@ -1,0 +1,14 @@
+.userCardContainer{
+    margin-top: 15px;
+    
+}
+
+.cardMedia{
+    margin: 30px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.stackInformation{
+    margin: 30px;
+}
